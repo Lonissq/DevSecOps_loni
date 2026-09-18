@@ -1,0 +1,7 @@
+Имя: Маколдин Арсений
+Группа: ИТ-9.24.3
+
+http://localhost:8090/?p=5
+
+docker compose stop db
+docker compose start db
